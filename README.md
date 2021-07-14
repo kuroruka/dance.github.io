@@ -1,1 +1,1 @@
-# dance.github.io
+# ここは『ダンスに夢中』班のgithubです。
